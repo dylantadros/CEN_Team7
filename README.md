@@ -47,3 +47,5 @@ This is the install guide that you would need to install all dependencies for wi
 **Mathew Silva**
 
 **Felipe Zuniga**
+
+**Dylan Tadros**
